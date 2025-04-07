@@ -3,9 +3,11 @@
         "ONYX-ORO12PL347HC0TZMBBZM": {
             "created": 1744045343.140492,
             "created_by": "1325164091928743980",
-            "used": false,
+            "used": true,
             "for_user": "1325164091928743980",
-            "duration": 22
+            "duration": 22,
+            "redeemed_by": "1325164091928743980",
+            "redeemed_at": 1744045667.006746
         }
     }
 }
